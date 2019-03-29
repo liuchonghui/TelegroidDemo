@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-		log.Printf("call main()")
+	log.Printf("call main()")
 }
